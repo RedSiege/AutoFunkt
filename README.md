@@ -15,7 +15,7 @@ d88P     888  "Y88888  "Y888 "Y  P"  888      "Y88888 888  888 888  888  "Y888
 
 ## Acknowledgements
 
-- Thank you to [Brett Fitzpatrick](https://twitter.com/_brettfitz)'s excellent [pyMalleableProfileParser](https://github.com/brett-fitz/pyMalleableProfileParser) library. 
+- Thank you to [Brett Fitzpatrick](https://twitter.com/_brettfitz) for the excellent [pyMalleableProfileParser](https://github.com/brett-fitz/pyMalleableProfileParser) library. 
 - Many thanks to my colleagues @ [FortyNorthSecurity](https://github.com/FortyNorthSecurity), especially [Chris Truncer](https://github.com/ChrisTruncer), [Joe Leon](https://github.com/joeleonjr), and [Grimm1e](https://github.com/Gr1mmie)
 
 ## Prerequisites
