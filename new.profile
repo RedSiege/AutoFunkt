@@ -345,7 +345,7 @@ process-inject {
 ##    - Analyze sample HTTP traffic to use as a reference
 http-get {
 
-    set uri "/jquery-3.3.1.min.js";
+    set uri "getter";
     set verb "GET";
 
     client {
@@ -405,7 +405,7 @@ http-get {
 ## Uncomment this Section to activate
 http-post {
 
-    set uri "/jquery-3.3.2.min.js";
+    set uri "/poster";
     set verb "POST";
 
     client {
