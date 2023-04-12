@@ -16,14 +16,13 @@ d88P     888  "Y88888  "Y888 "Y  P"  888      "Y88888 888  888 888  888  "Y888
 ## Acknowledgements
 
 - Thank you to [Brett Fitzpatrick](https://twitter.com/_brettfitz) for the excellent [pyMalleableProfileParser](https://github.com/brett-fitz/pyMalleableProfileParser) library. 
-- Many thanks to my colleagues @ [FortyNorthSecurity](https://github.com/FortyNorthSecurity), especially [Chris Truncer](https://github.com/ChrisTruncer), [Joe Leon](https://github.com/joeleonjr), and [Grimm1e](https://github.com/Gr1mmie)
+- Many thanks to my colleagues @[FortyNorthSecurity](https://github.com/FortyNorthSecurity), especially [Chris Truncer](https://github.com/ChrisTruncer), [Joe Leon](https://github.com/joeleonjr), and [Grimm1e](https://github.com/Gr1mmie)
 
 ## Prerequisites
 
 - Python 3.9 or higher
 - Google Cloud Functions CLI
 - Azure Functions Core Tools
-- 
 
 ## Usage
 
