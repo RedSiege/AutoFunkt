@@ -12,6 +12,8 @@ d88P     888  "Y88888  "Y888 "Y  P"  888      "Y88888 888  888 888  888  "Y888
 
     			malleable c2 => serverless cloud functions
 ```
+by Adam Rose (@a-3-r)
+https://twitter.com/aaaa3333rrrr
 
 ## Acknowledgements
 
