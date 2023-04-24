@@ -30,11 +30,10 @@ Written by Adam Rose
 
 ## Usage
 
-1. Clone the repo: `git clone https://github.com/calebstewart/malleable2func.git`
-2. Navigate to the `malleable2func` directory.
-3. Install requirements: `pip3 install -r requirements.txt`
-4. Generate Google Cloud Functions: `python3 malleable2func.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -g`
-5. Generate Azure Functions: `python3 malleable2func.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -a -s <azure-subdomain> -r <route-prefix>`
+1. Clone the repo: `git clone https://github.com/FortyNorthSecurity/AutoFunkt.git`
+2. Install requirements: `pip3 install -r requirements.txt`
+3. Generate Google Cloud Functions: `python3 malleable2func.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -g`
+4. Generate Azure Functions: `python3 malleable2func.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -a -s <azure-subdomain> -r <route-prefix>`
 
 ## Command Line Arguments
 
