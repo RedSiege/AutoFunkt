@@ -32,8 +32,8 @@ Written by Adam Rose
 
 1. Clone the repo: `git clone https://github.com/FortyNorthSecurity/AutoFunkt.git`
 2. Install requirements: `pip3 install -r requirements.txt`
-3. Generate Google Cloud Functions: `python3 malleable2func.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -g`
-4. Generate Azure Functions: `python3 malleable2func.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -a -s <azure-subdomain> -r <route-prefix>`
+3. Generate Google Cloud Functions: `python3 autofunkt.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -g`
+4. Generate Azure Functions: `python3 autofunkt.py -p /path/to/profile -t https://teamserver.url -o /path/to/output/directory -a -s <azure-subdomain> -r <route-prefix>`
 
 ## Command Line Arguments
 
