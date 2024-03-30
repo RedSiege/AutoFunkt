@@ -310,8 +310,8 @@ d88P     888  "Y88888  "Y888 {red}"Y  P"{white}  888      "Y88888 888  888 888  
 \t|| = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = || 
 \t||  https://{red}github{blue}.com/{red}a-3-r{blue} | https://{red}twitter{blue}.com/{red}aaaa3333rrrr{blue}  ||
 \t|| = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = || 
-\t||\t\t    https://{red}fortynorthsecurity{blue}.com               ||    
-\t|| \t\thttps://github.com/{red}fortynorthsecurity{blue}            || 
+\t||\t\t    https://{red}redsiege{blue}.com               ||    
+\t|| \t\thttps://github.com/{red}RedSiege{blue}            || 
 \t|| = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = || 
    {white} 
     """)
